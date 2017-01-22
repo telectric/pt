@@ -1,2 +1,2 @@
 # pt
-Procesos normalizados de trabajo
+Procedimientos normalizados de trabajo
